@@ -11,5 +11,5 @@
 - ### **rot90d** - rotim matricea la 90 de grade spre dreapta.
 #### Exemplu input:
 - #### x 2 3 1 2 3 4 5 6 let x -2 add
-## Problemă permmutări
+## Problemă permutări
 ![Enunț problemă](https://i.imgur.com/hlLH4GZ.png)
