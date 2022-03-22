@@ -12,4 +12,4 @@
 #### Exemplu input:
 - #### x 2 3 1 2 3 4 5 6 let x -2 add
 ## Problemă permmutări
-[Enunț problemă](https://i.imgur.com/hlLH4GZ.png)
+![Enunț problemă](https://i.imgur.com/hlLH4GZ.png)
